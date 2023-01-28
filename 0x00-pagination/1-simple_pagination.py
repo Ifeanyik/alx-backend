@@ -53,5 +53,4 @@ class Server:
         start = int(result[0])
         end = int(result[1])
 
-        return(self.dataset()[start: end
-
+        return(self.dataset()[start: end])
